@@ -25,3 +25,14 @@
 # obj = student("Sujal", 12217305)
 # print(obj.name)
 # print(obj.reg)
+
+class student:
+    def __init__(st, name, reg):  #(self) - st
+        st.name = name
+        st.reg = reg
+
+    def pr(self):
+        print("Hello my name ",self.name)
+
+obj = student("Sujal", 12217305)
+obj.pr()
