@@ -21,3 +21,9 @@ class Employees(Person):
     def __init__(self,name,age,year) :
         super().__init__(name,age) 
         self.year = year
+    
+    def welcome(self):
+        print("Hii Welcome" , self.name, "whose age is",self.age,"to the year",self.year)
+
+a = Employees("sujal","20",2022)
+a.welcome()
