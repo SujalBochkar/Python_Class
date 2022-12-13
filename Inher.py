@@ -9,3 +9,7 @@
 # class Employees(Person):
 #     pass
 
+# a = Employees("Sujal","20")
+# a.display()
+
+class Person:
