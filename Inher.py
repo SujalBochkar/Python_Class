@@ -18,3 +18,6 @@ class Person:
         self.age = age
 
 class Employees(Person):
+    def __init__(self,name,age,year) :
+        super().__init__(name,age) 
+        self.year = year
