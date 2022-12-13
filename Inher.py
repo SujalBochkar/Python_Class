@@ -6,3 +6,6 @@
 #     def display(self):
 #         print(self.name,self.age)
 
+# class Employees(Person):
+#     pass
+
