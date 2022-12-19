@@ -4,3 +4,6 @@
 
 # def sum(x,y,z=0):
 #     return x+y+z
+# print(sum(1,9))
+# print(sum(1,9,6))
+
