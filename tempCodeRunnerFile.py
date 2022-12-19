@@ -1,7 +1,3 @@
-sum=x+" "+y
-print(sum)
-
-# include
 a=10
 print(f"there are {a} items")
 
