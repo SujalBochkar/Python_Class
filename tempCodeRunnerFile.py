@@ -1,6 +1,3 @@
-#concatenation
-x="\"computer\""
-y="engineering"
 sum=x+" "+y
 print(sum)
 
