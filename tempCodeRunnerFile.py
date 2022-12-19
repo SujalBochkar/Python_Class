@@ -1,7 +1,3 @@
-#replace
-d="heelow"
-print(d.replace("e","l"))
-
 #concatenation
 x="\"computer\""
 y="engineering"
