@@ -1,14 +1,3 @@
-import random
-print(random.random())
-
-#slicing
-b = "sujal bochkar"
-print(b[3:-1])
-
-# capalization
-c="hello"
-print(c.upper())
-
 #replace
 d="heelow"
 print(d.replace("e","l"))
