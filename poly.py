@@ -7,3 +7,8 @@
 # print(sum(1,9))
 # print(sum(1,9,6))
 
+# class India ():
+#     def capital(self):
+#         print("New Delhi is the capital of India")
+
+#     def language(self):
