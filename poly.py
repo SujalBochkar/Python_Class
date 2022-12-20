@@ -12,3 +12,5 @@
 #         print("New Delhi is the capital of India")
 
 #     def language(self):
+#         print("Multiple languages are spoken in India")
+
