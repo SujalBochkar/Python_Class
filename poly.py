@@ -14,3 +14,8 @@
 #     def language(self):
 #         print("Multiple languages are spoken in India")
 
+# class USA():
+#     def capital(self):
+#         print("Washington DC")
+
+#     def language(self):
