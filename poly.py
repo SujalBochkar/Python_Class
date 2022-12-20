@@ -22,3 +22,5 @@
 #         print("Engilsh")
 
 # obj1= India()
+# obj2=USA()
+# obj1.capital()
