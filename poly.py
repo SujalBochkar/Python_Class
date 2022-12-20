@@ -19,3 +19,6 @@
 #         print("Washington DC")
 
 #     def language(self):
+#         print("Engilsh")
+
+# obj1= India()
