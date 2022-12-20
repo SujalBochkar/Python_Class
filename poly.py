@@ -30,3 +30,6 @@
 
 
 class Bird:
+    def Intro(self):
+        print("This is a bird class")
+
