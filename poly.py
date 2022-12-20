@@ -28,3 +28,5 @@
 # obj2.capital()
 # obj2.language()
 
+
+class Bird:
