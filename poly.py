@@ -24,3 +24,7 @@
 # obj1= India()
 # obj2=USA()
 # obj1.capital()
+# obj1.language()
+# obj2.capital()
+# obj2.language()
+
