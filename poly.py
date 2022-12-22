@@ -43,3 +43,4 @@ class Parrot(Bird):
 class Ostrich(Bird):
     def flight(self):
         print("Ostrich cannot fly")
+
