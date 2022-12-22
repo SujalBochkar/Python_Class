@@ -36,3 +36,4 @@ class Bird:
     def flight(self):
         print("Birds fly")
 
+class Parrot(Bird):
