@@ -38,3 +38,4 @@ class Bird:
 
 class Parrot(Bird):
     def flight(self):
+        print("Parrot can fly")
