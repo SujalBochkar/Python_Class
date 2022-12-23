@@ -49,3 +49,4 @@ obj1.Intro()
 obj1.flight()
 print("\n")
 
+obj2 = Parrot()
