@@ -45,3 +45,4 @@ class Ostrich(Bird):
         print("Ostrich cannot fly")
 
 obj1 = Bird()
+obj1.Intro()
