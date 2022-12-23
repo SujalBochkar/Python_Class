@@ -46,3 +46,4 @@ class Ostrich(Bird):
 
 obj1 = Bird()
 obj1.Intro()
+obj1.flight()
