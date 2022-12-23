@@ -51,3 +51,4 @@ print("\n")
 
 obj2 = Parrot()
 obj2.Intro()
+obj2.flight()
