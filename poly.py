@@ -55,3 +55,4 @@ obj2.flight()
 print("\n")
 
 obj3 = Ostrich()
+obj3.flight()
