@@ -54,3 +54,4 @@ obj2.Intro()
 obj2.flight()
 print("\n")
 
+obj3 = Ostrich()
